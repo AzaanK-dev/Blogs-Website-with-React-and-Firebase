@@ -9,12 +9,14 @@ import { Notfound } from "../pages/Notfound"
 
 export const Router = () => {
     return(
-        <Routes>
-            <Route path="/" element={<Home/>}></Route>
-            <Route path="/blogdetail/:id" element={<BlogDetail/>}></Route>
-            <Route path="/signup" element={<Register/>}></Route>
-            <Route path="/login" element={<Login/>}></Route>
-            <Route path="*" element={<Notfound/>}></Route>
-        </Routes>
+            <Routes>
+                <Route path="/" element={<Home/>}></Route>
+                <Route path="/blogdetail/:id" element={<BlogDetail/>}></Route>
+                <Route path="/signup" element={<Register/>}></Route>
+                <Route path="/login" element={<Login/>}></Route>
+                <Route path="*" element={<Notfound/>}></Route>
+            </Routes>
     )
 }
+
+
