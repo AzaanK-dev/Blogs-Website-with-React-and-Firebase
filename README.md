@@ -38,19 +38,23 @@ Toast notifications for success/error messages.
 💻 Tech Used
 
 --Frontend
+
 React – Component-based UI
 Tailwind CSS – Styling & responsive design
 HTML5 & CSS3 – Structure and styling
 JavaScript (ES6+) – Programming language
 
 --Backend / Database
+
 Firebase Firestore – Real-time database
 UX / Animations
 
 --AOS – Scroll animations
+
 React Hot Toast – Notifications
 
 --Routing & State Management
+
 React Router – Page navigation
 Context API – Global state management
 
