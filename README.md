@@ -1,5 +1,7 @@
 📝 React Blog Web with firebase
+
 A dynamic blog web application built with React, Firebase Firestore, Tailwind CSS, and AOS animations, allowing users to create, read, edit, and delete blog posts with a modern and responsive interface.
+
 
 🌟 Features
 
